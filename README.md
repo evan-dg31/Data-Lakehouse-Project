@@ -13,7 +13,8 @@ This project focuses on the design and implementation of a modern Data Lakehouse
 
 The data architecture for this project follows Medallion Architecture **Bronze, Silver, and Gold layers**:
 
-<img width="863" height="402" alt="image" src="https://github.com/user-attachments/assets/0bea318f-a85b-4a0a-b599-a16298dc42ec" />
+<img width="1846" height="1120" alt="formula1_architecture drawio" src="https://github.com/user-attachments/assets/28dc2373-f990-4577-98b2-1f8f493a7662" />
+<!-- <img width="863" height="402" alt="image" src="https://github.com/user-attachments/assets/0bea318f-a85b-4a0a-b599-a16298dc42ec" /> -->
 
 
 
